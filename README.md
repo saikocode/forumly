@@ -68,13 +68,11 @@ Pada aplikasi forumly ini terdapat fitur :
    ```sh
    php artisan serve
    ```
-## Anggota IF3_TimTahuBulat
-10119091 - Muhammad Rojabi Nur Fauzi</br>
-10119097 - Ikhsan Nurul Rizki</br>
-10119118 - Rizky Septiana Abdul Razak</br>
-10119120 - Reichan Muhamad Maulana</br>
-10119123 - Angga Cahya Abadi</br>
-10119124 - Primarazaq Noorsalih Putra Hilmana
+## Contributor
+
+Reichan Muhamad Maulana</br>
+Angga Cahya Abadi</br>
+
 
 
 ## License
