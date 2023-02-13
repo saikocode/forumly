@@ -6,7 +6,7 @@
 
 Forumly adalah forum online berbasis web yang ditujukan untuk para mahasiswa sebagai sarana untuk berdiskusi dan bertukar pikiran. Forumly juga memudahkan para mahasiswa untuk berbagi ilmu dan pengalaman.
 ## Fitur Utama
-Markup : * Login/Register: Mudah mendaftar atau masuk untuk mengakses semua fitur platform.
+* Login/Register: Mudah mendaftar atau masuk untuk mengakses semua fitur platform.
 * Membuat Diskusi: Mulai diskusi Anda sendiri atau berpartisipasi dalam diskusi yang ada pada berbagai topik.
 * Mengelola Postingan: Sunting atau hapus postingan Anda sendiri untuk menjaga diskusi tetap terarah.
 * Menyukai Diskusi: Tunjukkan apresiasi Anda untuk diskusi dengan menyukainya.
