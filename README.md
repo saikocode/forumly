@@ -4,21 +4,19 @@
 ## Tentang Forumly
 
 
-Forumly adalah forum online berbasis web yang ditujukan untuk para mahasiswa sebagai sarana untuk berdiskusi dan bertukar pikiran. Forumly juga memudahkan para mahasiswa untuk berbagi ilmu dan pengalaman. Aplikasi ini dibuat sebagai salah satu tugas besar untuk memenuhi nilai UAS mata kuliah Rekayasa Perangkat Lunak II.
-Pada aplikasi forumly ini terdapat fitur :
-- Login
-- Register
-- Membuat diskusi
-- Mengelola postingan (menyunting dan menghapus)
-- Menyukai diskusi
-- Berlangganan dengan suatu topik diskusi
-- Membuat komentar
-- Mengikuti akun user lain
-- Mencari topik diskusi
-- Mengatur profil pribadi
-- Menyediakan fitur khusus untuk admin berupa membuat kategori, melihat user active, dan mengelola seluruh threads user
-
-
+Forumly adalah forum online berbasis web yang ditujukan untuk para mahasiswa sebagai sarana untuk berdiskusi dan bertukar pikiran. Forumly juga memudahkan para mahasiswa untuk berbagi ilmu dan pengalaman.
+## Fitur Utama
+Markup : * Login/Register: Mudah mendaftar atau masuk untuk mengakses semua fitur platform.
+* Membuat Diskusi: Mulai diskusi Anda sendiri atau berpartisipasi dalam diskusi yang ada pada berbagai topik.
+* Mengelola Postingan: Sunting atau hapus postingan Anda sendiri untuk menjaga diskusi tetap terarah.
+* Menyukai Diskusi: Tunjukkan apresiasi Anda untuk diskusi dengan menyukainya.
+* Berlangganan Topik: Tetap up-to-date dengan diskusi terbaru pada topik yang Anda minati.
+* Menulis Komentar: Bagikan pendapat dan opini Anda pada diskusi dengan pengguna lain.
+* Mengikuti Pengguna: Pantau diskusi yang dibuat oleh pengguna yang Anda ikuti.
+* Mencari Topik: Temukan diskusi yang Anda minati dengan cepat dan mudah.
+* Profil Pribadi: Sesuaikan profil Anda untuk merefleksikan kepribadian dan minat Anda.
+* Fitur Admin: Admin memiliki akses ke alat khusus seperti membuat kategori, memantau pengguna aktif, dan mengelola semua thread pengguna.
+* Dengan Forumly, Anda dapat berpartisipasi dalam diskusi yang ramai dan berinteraksi dengan individu yang memiliki minat yang sama. Mulai jelajahi platform hari ini dan bergabunglah dalam diskusi!
 
 ### Dibuat Dengan
 
