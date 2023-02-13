@@ -4,19 +4,18 @@
 ## Tentang Forumly
 
 
-Forumly adalah forum online berbasis web yang ditujukan untuk para mahasiswa sebagai sarana untuk berdiskusi dan bertukar pikiran. Forumly juga memudahkan para mahasiswa untuk berbagi ilmu dan pengalaman.
+Forumly adalah platform diskusi online berbasis web yang ditujukan untuk para mahasiswa yang mudah digunakan dan punya banyak fitur keren buat meningkatkan pengalaman kamu. Dengan Forumly, kamu bisa ikutan ngomongin, ikutan diskusi topik yang kamu sukai, dan terhubung dengan pengguna lain.
 ## Fitur Utama
-* Login/Register: Mudah mendaftar atau masuk untuk mengakses semua fitur platform.
-* Membuat Diskusi: Mulai diskusi Anda sendiri atau berpartisipasi dalam diskusi yang ada pada berbagai topik.
-* Mengelola Postingan: Sunting atau hapus postingan Anda sendiri untuk menjaga diskusi tetap terarah.
-* Menyukai Diskusi: Tunjukkan apresiasi Anda untuk diskusi dengan menyukainya.
-* Berlangganan Topik: Tetap up-to-date dengan diskusi terbaru pada topik yang Anda minati.
-* Menulis Komentar: Bagikan pendapat dan opini Anda pada diskusi dengan pengguna lain.
-* Mengikuti Pengguna: Pantau diskusi yang dibuat oleh pengguna yang Anda ikuti.
-* Mencari Topik: Temukan diskusi yang Anda minati dengan cepat dan mudah.
-* Profil Pribadi: Sesuaikan profil Anda untuk merefleksikan kepribadian dan minat Anda.
-* Fitur Admin: Admin memiliki akses ke alat khusus seperti membuat kategori, memantau pengguna aktif, dan mengelola semua thread pengguna.
-* Dengan Forumly, Anda dapat berpartisipasi dalam diskusi yang ramai dan berinteraksi dengan individu yang memiliki minat yang sama. Mulai jelajahi platform hari ini dan bergabunglah dalam diskusi!
+* Login/Register: Mudah banget buat daftar atau login buat akses semua fitur di platform.
+* Bikin Diskusi: Mulai ngomongin apa aja yang kamu sukai atau ikutan ngomongin yang udah ada di banyak topik.
+* Kelola Postingan: Edit atau hapus postingan kamu sendiri biar diskusinya tetep keren.
+* Sukai Diskusi: Tampilin apresiasi kamu buat diskusi dengan menyukai.
+* Langganan Topik: Terus update dengan diskusi terbaru yang kamu sukai.
+* Komentar: Bagikan pendapat dan opini kamu pada diskusi dengan pengguna lain.
+* Ikuti Pengguna: Pantau diskusi yang dibuat dengan pengguna yang kamu ikuti.
+* Cari Topik: Temukan diskusi yang kamu sukai dengan mudah dan cepat.
+* Profil Pribadi: Sesuaikan profil kamu buat menampilkan kepribadian dan minat kamu.
+* Fitur Admin: Admin bisa akses fitur spesial seperti buat kategori, lihat pengguna aktif, dan kelola semua thread pengguna.
 
 ### Dibuat Dengan
 
