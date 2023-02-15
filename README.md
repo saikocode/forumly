@@ -67,8 +67,8 @@ Forumly adalah platform diskusi online berbasis web yang ditujukan untuk para ma
    ```
 ## Contributor
 
-Reichan Muhamad Maulana</br>
-Angga Cahya Abadi</br>
+[Reichan Muhamad Maulana](https://github.com/N0iire)</br>
+[Angga Cahya Abadi](https://github.com/angjaay)</br>
 
 
 
